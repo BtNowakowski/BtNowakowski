@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,vscode,git,linux,powershell)](https://www.linkedin.com/in/btnowakowski/)  
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,mysql,vscode,git,linux,powershell)](https://www.linkedin.com/in/btnowakowski/)  
 
 My latest project: [Password Manager](https://github.com/BtNowakowski/PasswordManager)
 <!--
