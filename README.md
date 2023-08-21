@@ -1,4 +1,5 @@
 <h1 align="center">Hi there! :shipit:</h1>
+
 [![My Skills](https://skillicons.dev/icons?i=python,selenium,fastapi,mysql,vscode,git,linux,powershell)](https://www.linkedin.com/in/btnowakowski/)  
 
 My latest project: [Password Manager](https://github.com/BtNowakowski/PasswordManager)
