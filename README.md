@@ -1,7 +1,7 @@
 # 👋 Hello there! I'm Bartosz, a passionate software tester and developer.
 
 
-🌟 I love working on projects that challenge me and push the boundaries of what's possible. Whether it's front-end development with React or backend systems with Python, I'm always eager to learn and grow.
+🌟 I love working on projects that challenge me and push the boundaries of what's possible. Whether it's front-end development with React or backend systems with Python, I'm always eager to learn and grow. One thing that truly sets me apart is my deep appreciation for software testing and quality assurance.
 
 🚀 When I'm not coding, you can find me exploring the great outdoors, watching some good movies or sipping on coffee.
 
