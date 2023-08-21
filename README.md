@@ -3,8 +3,9 @@
 [![My Skills](https://skillicons.dev/icons?i=python,selenium,fastapi,mysql,vscode,git,linux,powershell)](https://www.linkedin.com/in/btnowakowski/)  
 
 My latest project: [Password Manager](https://github.com/BtNowakowski/PasswordManager)  
+---
 
-Reach me through my   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/btnowakowski/). 
+Please feel free to reach me through my   [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/btnowakowski/). 
 
 
 <!--
