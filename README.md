@@ -7,7 +7,7 @@
 
 🚀 When I'm not coding, you can find me exploring the great outdoors, watching some good movies or sipping on coffee.
 
-[![My Skills](https://skillicons.dev/icons?i=python,selenium,fastapi,mysql,vscode,git,linux,powershell)](https://www.linkedin.com/in/btnowakowski/)  
+[![My Skills](https://skillicons.dev/icons?i=python,selenium,fastapi,mysql,vscode,git,linux,powershell)](https://github.com/BtNowakowski?tab=repositories)  
 
 My latest project: [Password Manager](https://github.com/BtNowakowski/PasswordManager)  
 ---
