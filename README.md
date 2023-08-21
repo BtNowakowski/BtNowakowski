@@ -3,9 +3,9 @@
 
 🌟 I love working on projects that challenge me and push the boundaries of what's possible. Whether it's front-end development with React or backend systems with Python, I'm always eager to learn and grow. One thing that truly sets me apart is my deep appreciation for software testing and quality assurance.
 
-🚀 When I'm not coding, you can find me exploring the great outdoors, watching some good movies or sipping on coffee.
-
 🔍 I believe that rigorous testing is the backbone of reliable software. From unit tests to end-to-end testing, I'm dedicated to writing code that not only works, but works flawlessly. I'm also well-versed in automation testing tools and continuous integration practices to streamline the development process.
+
+🚀 When I'm not coding, you can find me exploring the great outdoors, watching some good movies or sipping on coffee.
 
 [![My Skills](https://skillicons.dev/icons?i=python,selenium,fastapi,mysql,vscode,git,linux,powershell)](https://www.linkedin.com/in/btnowakowski/)  
 
