@@ -11,7 +11,7 @@
 My latest project: [Password Manager](https://github.com/BtNowakowski/PasswordManager)  
 ---
 
-🔗 Let's connect! You can find me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/btnowakowski/)).
+🔗 Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/btnowakowski/) or send me an [email](mailto:bt_nowakowski@outlook.com).
 
 Feel free to reach out if you want to chat about coding, share project ideas, or just have a friendly conversation. Cheers! 🎉
 
