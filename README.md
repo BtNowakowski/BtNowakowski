@@ -1,8 +1,7 @@
 ### Hi there 👋
 [![My Skills](https://skillicons.dev/icons?i=python,vscode)](https://skillicons.dev)  
 
-My latest project: [Password Manager](https://github.com/BtNowakowski/PasswordManager)
-[Password Manager]([https://pages.github.com/](https://github.com/BtNowakowski/PasswordManager))
+My latest project: [Password Manager]([https://pages.github.com/](https://github.com/BtNowakowski/PasswordManager))
 <!--
 **BtNowakowski/BtNowakowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
