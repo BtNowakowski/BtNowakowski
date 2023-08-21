@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there! I'm Bartosz, a passionate software developer.</h1>
+<h1 align="center">👋 Hello there! I'm Bartosz, a passionate software tester and developer.</h1>
 
 
 🌟 I love working on projects that challenge me and push the boundaries of what's possible. Whether it's front-end development with React or backend systems with Python, I'm always eager to learn and grow.
