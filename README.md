@@ -5,6 +5,7 @@
 
 🚀 When I'm not coding, you can find me exploring the great outdoors, watching some good movies or sipping on coffee.
 
+🔍 I believe that rigorous testing is the backbone of reliable software. From unit tests to end-to-end testing, I'm dedicated to writing code that not only works, but works flawlessly. I'm also well-versed in automation testing tools and continuous integration practices to streamline the development process.
 
 [![My Skills](https://skillicons.dev/icons?i=python,selenium,fastapi,mysql,vscode,git,linux,powershell)](https://www.linkedin.com/in/btnowakowski/)  
 
