@@ -13,7 +13,8 @@ My latest project: [Password Manager](https://github.com/BtNowakowski/PasswordMa
 
 🔗 Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/btnowakowski/) or send me an [email](mailto:bt_nowakowski@outlook.com).
 
-Feel free to reach out if you want to chat about coding, share project ideas, or just have a friendly conversation. Cheers! 🎉
+Feel free to reach out if you want to chat about coding, share project ideas, or just have a friendly conversation. Cheers! 🎉  
+
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/btnowakowski/)
 
