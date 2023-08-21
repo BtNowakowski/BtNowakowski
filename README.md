@@ -4,8 +4,7 @@
 
 My latest project: [Password Manager](https://github.com/BtNowakowski/PasswordManager)  
 
-Reach me through my [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/btnowakowski/) 
-<!--
+Reach me through my [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/btnowakowski/)  
 **BtNowakowski/BtNowakowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
