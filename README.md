@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,selenium,fastapi,mysql,vscode,git,linux,powershell,bash)](https://github.com/BtNowakowski?tab=repositories)  
 
-My latest project: [Password Manager](https://github.com/BtNowakowski/PasswordManager)  
+My latest project: [Password Manager](https://github.com/BtNowakowski/PasswordManager) and [Python Poker](https://github.com/BtNowakowski/python_poker)
 ---
 
 🔗 Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/btnowakowski/) or send me an [email](mailto:bt_nowakowski@outlook.com).
