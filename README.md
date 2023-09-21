@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,selenium,fastapi,mysql,vscode,git,linux,powershell,bash)](https://github.com/BtNowakowski?tab=repositories)  
 
-My latest project: [Password Manager](https://github.com/BtNowakowski/PasswordManager) and [Python Poker](https://github.com/BtNowakowski/python_poker)
+### My latest projects: [Password Manager](https://github.com/BtNowakowski/PasswordManager) and [Python Poker](https://github.com/BtNowakowski/python_poker)
 
 ---
 
