@@ -23,6 +23,7 @@
 Feel free to reach out if you want to chat about coding, share project ideas, or just have a friendly conversation. Cheers! 🎉  
 
 
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/btnowakowski/)
 
 <!--
